@@ -9,4 +9,9 @@ the next quarter. From this, I tested the VAR model versus the
 Arima model to ensure that using stocks in the related field 
 is significant to not.
 
+Also note that the dataset uploaded is not the same one used.
+The version shared here is a cleaned version consisting of only
+the top ten tech stocks in the S&P500 based on average volume. 
+A link to the orignal data set is below.
+
 Math & Physics Fun with Gus!
