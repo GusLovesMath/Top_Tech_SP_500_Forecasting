@@ -14,4 +14,6 @@ The version shared here is a cleaned version consisting of only
 the top ten tech stocks in the S&P500 based on average volume. 
 A link to the orignal data set is below.
 
+https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_stocks.csv
+
 Math & Physics Fun with Gus!
