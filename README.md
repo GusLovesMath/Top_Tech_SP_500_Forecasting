@@ -16,4 +16,7 @@ A link to the orignal data set is below.
 
 https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_stocks.csv
 
+A teanty five page paper was written that goes in-depth on the anaylsis portion
+of the data analysis and modeling. If you would like to read it please contact me.
+
 Math & Physics Fun with Gus!
